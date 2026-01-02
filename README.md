@@ -5,7 +5,7 @@ This project demonstrates a full end-to-end real-time data streaming pipeline us
 Kafka streams are processed in real-time by **Apache Spark** and the reformatted data is stored in **Cassandra**. The Kafka infrastructure, including **Confluent Control Center** and **Schema Registry**, is used for monitoring and maintaining data integrity throughout the pipeline.
 
 
-## Project architecture
+## Project architectures
 ![Realtime Data Streaming Project Architecture](project_architecture.png)
 
 ## Table of Contents
